@@ -1,0 +1,17 @@
+# dependencies & build
+node_modules
+dist
+scripts/.out
+
+# local / deploy secrets
+.vercel
+*.local
+.env
+.env.*
+
+# tooling noise
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+ngrok.exe
+*.log
