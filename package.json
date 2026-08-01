@@ -2,6 +2,16 @@
   "name": "reinlab",
   "private": true,
   "version": "0.1.0",
+  "description": "ReinLab — 看得见的强化学习：交互式教程，从贝尔曼方程到 Actor-Critic",
+  "homepage": "https://github.com/ZMC210/ReinLab",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZMC210/ReinLab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZMC210/ReinLab/issues"
+  },
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
